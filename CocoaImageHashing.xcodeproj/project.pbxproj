@@ -2176,6 +2176,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = watchos;
@@ -2194,6 +2195,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = watchos;
@@ -2238,6 +2240,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = appletvos;
@@ -2256,6 +2259,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = appletvos;
@@ -2355,6 +2359,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = iphoneos;
@@ -2373,6 +2378,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = iphoneos;
@@ -2618,6 +2624,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = macosx;
@@ -2636,6 +2643,7 @@
 				INFOPLIST_FILE = CocoaImageHashing/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = com.operationalsemantics.CocoaImageHashing;
 				PRODUCT_NAME = CocoaImageHashing;
 				SDKROOT = macosx;
